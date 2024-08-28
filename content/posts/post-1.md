@@ -22,3 +22,21 @@ Hello, world! This is post 1.
   - This is a nested bullet list.
   - This is another nested bullet list.
   - This is the last nested bullet list.
+
+> Some text
+{cite="https://gohugo.io" caption="Some caption"}
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
