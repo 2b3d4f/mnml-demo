@@ -2,6 +2,10 @@ baseURL = 'https://2b3d4f.github.io/mnml-demo'
 languageCode = 'en-US'
 title = 'mnml-demo'
 
+[params]
+showProposeEditOn = true
+proposeEditRepos = 'https://github.com/2b3d4f/mnml-demo'
+
 [params.workaround]
 deeplInputControllerMargin = true
 
