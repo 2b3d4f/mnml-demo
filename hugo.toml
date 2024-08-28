@@ -6,6 +6,12 @@ title = 'mnml-demo'
 showProposeEditOn = true
 proposeEditRepos = 'https://github.com/2b3d4f/mnml-demo'
 
+[params.style]
+fontFamily = '"Roboto Flex", "Noto Color Emoji", Helvetica, Arial, "Noto Sans", sans-serif'
+
+[params.googleFonts]
+path = "https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap"
+
 [params.workaround]
 deeplInputControllerMargin = true
 
