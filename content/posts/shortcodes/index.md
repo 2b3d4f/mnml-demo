@@ -1,7 +1,7 @@
 ---
 title: "Shortcodes"
 date: 2024-07-16T17:42:11+09:00
-draft: true
+draft: false
 tags:
     - "Hugo"
 slug: "shortcodes"
