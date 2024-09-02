@@ -2,9 +2,9 @@ baseURL = 'https://2b3d4f.github.io/mnml-demo'
 languageCode = 'en-US'
 title = 'mnml-demo'
 
-[params]
-showProposeEdit = true
-proposeEditRepos = 'https://github.com/2b3d4f/mnml-demo'
+[params.content]
+showEditOn = true
+editOnRepos = 'https://github.com/2b3d4f/mnml-demo'
 
 [params.fonts]
 fontFamily = '"Roboto Flex", "Noto Emoji", sans-serif'
@@ -23,6 +23,12 @@ deeplInputControllerMargin = true
 
 [taxonomies]
 tag = 'tags'
+
+[permalinks]
+  [permalinks.page]
+    posts = '/posts/:slug/'
+  [permalinks.section]
+    posts = '/archives/'
 
 # category = 'categories'
 [[menus.main]]
