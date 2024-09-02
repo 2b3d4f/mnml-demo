@@ -1,7 +1,7 @@
 ---
 title: 'Post 1'
-date: '2024-08-26T13:02:27+09:00'
-draft: true
+date: '2024-09-02T21:04:27+09:00'
+draft: false
 tags:
 - red
 slug: 'post-1'
